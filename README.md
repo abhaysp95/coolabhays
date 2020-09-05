@@ -44,7 +44,15 @@
 [<img align="left" alt="coolabhays | Powershell" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/powershell-2-569189.png" />][powershell]
 [<img align="left" alt="coolabhays | Mariadb" width="38px" src="https://cdn.iconscout.com/icon/free/png-64/mariadb-226022.png" />][mariadb]
 [<img align="left" alt="coolabhays | MySQL" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" />][mysql]
+[<img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
+[<img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 
+<br />
+
+_All the above mentioned tools are just to show that I have worked with them at some period of time_
+
+<br />
+<br />
 
 [twitter]: https://twitter.com/abhayshankerpa2
 [linkedin]: https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab
@@ -69,3 +77,5 @@
 [powershell]: https://powershell.org/
 [mariadb]: https://mariadb.org/
 [mysql]: https://www.mysql.com/
+[git]: https://github.com/git/git
+[github]: https://github.com
