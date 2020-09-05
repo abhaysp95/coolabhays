@@ -1,6 +1,6 @@
 ### Hello, I'm Abhay - aka coolabhays 👋
 
-## I'm Student, son, coder and learner!
+## I'm student, coder and learner!
 - I'm currently working on several small scripts and code for purpose of learning
 - ‍💻 Currently learning
 	- <img align="left" alt="coolabhays | java" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />Java
@@ -24,6 +24,8 @@
 <br/>
 
 ### Language and Tools
+
+<img align="left" alt="coolabhays | Vim" width="25px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png />"
 
 
 <br/>
