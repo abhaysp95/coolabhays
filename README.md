@@ -4,12 +4,11 @@
 - I'm currently working on several small scripts and code for purpose of learning
 - ‍💻 Currently learning
 	- <img align="left" alt="coolabhays | java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />Java
-	- C++
-	- Bash
-	- Powershell
-	- Networking
-	- DBMS
-	- And several other things which I like to read and learn about
+	- <img align="left" alt="coolabhays | cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />C++
+	- <img align="left" alt="coolabhays | bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gnubash.svg" />Bash
+	- <img align="left" alt="coolabhays | powershell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/powershell.svg" />Powershell
+	- <img align="left" alt="coolabhays | networking" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/nintendonetwork.svg" />Networking
+	- <img align="left" alt="coolabhays | dbms" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/mariadb.svg" />DBMS
 	- Basically learning everything  🤣
 - 🔧 Want to contribute to some open source projects
 - 🔗 Current Goal: Prepare for CCNA
