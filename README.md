@@ -48,7 +48,6 @@
 [<img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 
 <br />
-<br />
 
 [twitter]: https://twitter.com/abhayshankerpa2
 [linkedin]: https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab
@@ -75,5 +74,7 @@
 [mysql]: https://www.mysql.com/
 [git]: https://github.com/git/git
 [github]: https://github.com
+
+<br />
 
 All the above mentioned tools are just to show that I have worked with them at some period of time
