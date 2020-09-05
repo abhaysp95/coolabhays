@@ -52,6 +52,12 @@ Below mentioned tools are just some tools with which I have worked or currently 
 <br />
 <br />
 
+---
+
+<!-- [![coolabhays's github stats](https://github-readme-stats.vercel.app/api?username=coolabhays)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="left" alt="coolabhays's github stats" src="https://github-readme-stats.vercel.app/api?username=coolabhays&show_icons=true&hide_border=true" />
+
+
 [twitter]: https://twitter.com/abhayshankerpa2
 [linkedin]: https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab
 [facebook]: https://www.facebook.com/abhayshanker.pathak
