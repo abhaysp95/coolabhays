@@ -25,7 +25,7 @@
 
 ### Language and Tools
 
-<img align="left" alt="coolabhays | Vim" width="25px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png />"
+[<img align="left" alt="coolabhays | Vim" width="25px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png />"][vim]
 
 
 <br/>
@@ -35,3 +35,4 @@
 [linkedin]: https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab
 [facebook]: https://www.facebook.com/abhayshanker.pathak
 [instagram]: https://www.instagram.com/coolabhay95/?hl=en
+[vim]: https://www.vim.org/
