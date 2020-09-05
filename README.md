@@ -66,6 +66,8 @@ Below mentioned tools are just some tools with which I have worked or currently 
 
 ---
 
+### Github Readme Stats
+
 <!-- [![coolabhays's github stats](https://github-readme-stats.vercel.app/api?username=coolabhays)](https://github.com/anuraghazra/github-readme-stats) -->
 <img align="left" alt="coolabhays's github stats" src="https://github-readme-stats.vercel.app/api?username=coolabhays&show_icons=true&hide_border=true" />
 
