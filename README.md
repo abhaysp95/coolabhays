@@ -25,7 +25,7 @@
 
 ### Language and Tools
 
-[<img align="left" alt="coolabhays | Vim" width="25px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png />"][vim]
+[<img align="left" alt="coolabhays | Vim" width="25px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png" />][vim]
 
 
 <br/>
