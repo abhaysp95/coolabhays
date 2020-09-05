@@ -55,6 +55,20 @@ Below mentioned tools are just some tools with which I have worked or currently 
 [<img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 
 
+<br />
+<br />
+
+
+---
+
+### Github Readme Stats
+
+<!-- [![coolabhays's github stats](https://github-readme-stats.vercel.app/api?username=coolabhays)](https://github.com/anuraghazra/github-readme-stats) -->
+<img align="left" alt="coolabhays's github stats" src="https://github-readme-stats.vercel.app/api?username=coolabhays&show_icons=true&hide_border=true" />
+
+<img align="left" alt="Top Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coolabhays" />
+
+
 
 [twitter]: https://twitter.com/abhayshankerpa2
 [linkedin]: https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab
@@ -82,16 +96,3 @@ Below mentioned tools are just some tools with which I have worked or currently 
 [git]: https://github.com/git/git
 [github]: https://github.com
 
-
-
-<br />
-<br />
-
-
-
----
-
-### Github Readme Stats
-
-<!-- [![coolabhays's github stats](https://github-readme-stats.vercel.app/api?username=coolabhays)](https://github.com/anuraghazra/github-readme-stats) -->
-<img align="left" alt="coolabhays's github stats" src="https://github-readme-stats.vercel.app/api?username=coolabhays&show_icons=true&hide_border=true" />
