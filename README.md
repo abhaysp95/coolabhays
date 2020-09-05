@@ -16,11 +16,20 @@
 
 ### Connect with me:
 
-[<img align="left" href="https://twitter.com/abhayshankerpa2" alt="coolabhays | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" href="https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab" alt="coolabhays | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" href="https://www.facebook.com/abhayshanker.pathak" alt="coolabhays | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
-[<img align="left" href="https://www.instagram.com/coolabhay95/?hl=en" alt="coolabhays | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" />][instagram]
+[<img align="left" alt="coolabhays | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="coolabhays | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="coolabhays | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
+[<img align="left" alt="coolabhays | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" />][instagram]
 
 <br/>
 
 ### Language and Tools
+
+
+<br/>
+<br/>
+
+[twitter]: https://twitter.com/abhayshankerpa2
+[linkedin]: https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab
+[facebook]: https://www.facebook.com/abhayshanker.pathak
+[instagram]: https://www.instagram.com/coolabhay95/?hl=en
