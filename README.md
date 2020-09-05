@@ -24,11 +24,9 @@
 [<img align="left" alt="coolabhays | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" />][instagram]
 
 
+<br/>
 
 ---
-
-
-<br/>
 
 ### Language and Tools
 
@@ -56,10 +54,6 @@ Below mentioned tools are just some tools with which I have worked or currently 
 [<img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 
-
-
-
----
 
 <br />
 <br />
