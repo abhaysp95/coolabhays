@@ -3,12 +3,12 @@
 ## I'm Student, son, coder and learner!
 - I'm currently working on several small scripts and code for purpose of learning
 - ‍💻 Currently learning
-	- <img align="left" alt="coolabhays | java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />Java
-	- <img align="left" alt="coolabhays | cplusplus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />C++
-	- <img align="left" alt="coolabhays | bash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gnubash.svg" />Bash
-	- <img align="left" alt="coolabhays | powershell" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/powershell.svg" />Powershell
-	- <img align="left" alt="coolabhays | networking" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/nintendonetwork.svg" />Networking
-	- <img align="left" alt="coolabhays | dbms" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/mariadb.svg" />DBMS
+	- <img align="left" alt="coolabhays | java" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/java.svg" />Java
+	- <img align="left" alt="coolabhays | cplusplus" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/cplusplus.svg" />C++
+	- <img align="left" alt="coolabhays | bash" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/gnubash.svg" />Bash
+	- <img align="left" alt="coolabhays | powershell" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/powershell.svg" />Powershell
+	- <img align="left" alt="coolabhays | networking" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/nintendonetwork.svg" />Networking
+	- <img align="left" alt="coolabhays | dbms" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/mariadb.svg" />DBMS
 	- Basically learning everything  🤣
 - 🔧 Want to contribute to some open source projects
 - 🔗 Current Goal: Prepare for CCNA
@@ -16,7 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" href="https://twitter.com/abhayshankerpa2" alt="coolabhays | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" href="https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab" alt="coolabhays | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" href="https://www.facebook.com/abhayshanker.pathak" alt="coolabhays | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
-[<img align="left" href="https://www.instagram.com/coolabhay95/?hl=en" alt="coolabhays | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" />][instagram]
+[<img align="left" href="https://twitter.com/abhayshankerpa2" alt="coolabhays | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" href="https://in.linkedin.com/in/abhay-shanker-pathak-3458bb1ab" alt="coolabhays | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" href="https://www.facebook.com/abhayshanker.pathak" alt="coolabhays | Facebook" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
+[<img align="left" href="https://www.instagram.com/coolabhay95/?hl=en" alt="coolabhays | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/instagram.svg" />][instagram]
+
+<br/>
+
+### Language and Tools
