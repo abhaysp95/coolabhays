@@ -25,6 +25,8 @@
 
 ### Language and Tools
 
+Below mentioned tools are just some tools with which I have worked or currently learning
+
 [<img align="left" alt="coolabhays | Vim" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png" />][vim]
 [<img align="left" alt="coolabhays | Linux" width="38px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" />][linux]
 [<img align="left" alt="coolabhays | BSD" width="38px" src="https://icons.iconarchive.com/icons/icons8/windows-8/256/Systems-Free-Bsd-icon.png" />][bsd]
@@ -47,6 +49,7 @@
 [<img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git]
 [<img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" />][github]
 
+<br />
 <br />
 
 [twitter]: https://twitter.com/abhayshankerpa2
@@ -74,7 +77,3 @@
 [mysql]: https://www.mysql.com/
 [git]: https://github.com/git/git
 [github]: https://github.com
-
-<br />
-
-All the above mentioned tools are just to show that I have worked with them at some period of time
