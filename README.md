@@ -59,7 +59,7 @@ Below mentioned tools are just some tools with which I have worked or currently 
     <td><img align="left" alt="coolabhays | Mariadb" width="38px" src="https://cdn.iconscout.com/icon/free/png-64/mariadb-226022.png" /><a href="">mariadb</a></td>
     <td><img align="left" alt="coolabhays | MySQL" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" /><a href="">mysql</a></td>
     <td><img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /><a href="">git</a></td>
-    <td><img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" /><a href="">github</a></td>
+    <td><img align="left" alt="coolabhays | Github" width="38px" src="https://img.icons8.com/clouds/100/000000/github.png" /><a href="">github</a></td>
   </tr>
 </table>
 
