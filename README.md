@@ -39,8 +39,8 @@ Below mentioned tools are just some tools with which I have worked or currently 
     <td><img align="left" alt="coolabhays | Linux" width="38px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" /><a href="">linux</a></td>
     <td><img align="left" alt="coolabhays | BSD" width="38px" src="https://icons.iconarchive.com/icons/icons8/windows-8/256/Systems-Free-Bsd-icon.png" /><a href="">bsd</a></td>
     <td><img align="left" alt="coolabhays | Cisco" width="38px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" /><a href="">cisco</a></td>
-    <td><img align="left" alt="coolabhays | C" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><a href="d>c</a></td>
-    <td><img align="left" alt="coolabhays | C++" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png" /><a href="d>c++</a></td>
+    <td><img align="left" alt="coolabhays | C" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><a href="">c</a></td>
+    <td><img align="left" alt="coolabhays | C++" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png" /><a href="">c++</a></td>
     <td><img align="left" alt="coolabhays | Java" width="38px" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" /><a href="">java</a></td>
   </tr>
   <tr>
@@ -59,7 +59,7 @@ Below mentioned tools are just some tools with which I have worked or currently 
     <td><img align="left" alt="coolabhays | Mariadb" width="38px" src="https://cdn.iconscout.com/icon/free/png-64/mariadb-226022.png" /><a href="">mariadb</a></td>
     <td><img align="left" alt="coolabhays | MySQL" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" /><a href="">mysql</a></td>
     <td><img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /><a href="">git</a></td>
-    <tr><img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" /><a href="">github</a></tr>
+    <td><img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" /><a href="">github</a></td>
   </tr>
 </table>
 
