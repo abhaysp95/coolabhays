@@ -39,28 +39,28 @@ Below mentioned tools are just some tools with which I have worked or currently 
     <td><img align="left" alt="coolabhays | Linux" width="38px" src="https://icons.iconarchive.com/icons/tatice/operating-systems/256/Linux-icon.png" /><a href="">linux</a></td>
     <td><img align="left" alt="coolabhays | BSD" width="38px" src="https://icons.iconarchive.com/icons/icons8/windows-8/256/Systems-Free-Bsd-icon.png" /><a href="">bsd</a></td>
     <td><img align="left" alt="coolabhays | Cisco" width="38px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" /><a href="">cisco</a></td>
-    <td><img align="left" alt="coolabhays | C" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><a href="d>c]</</a>>
-    <td><img align="left" alt="coolabhays | C++" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png" /><a href="d>c++]</</a>>
+    <td><img align="left" alt="coolabhays | C" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><a href="d>c</a></td>
+    <td><img align="left" alt="coolabhays | C++" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/c-4-226082.png" /><a href="d>c++</a></td>
     <td><img align="left" alt="coolabhays | Java" width="38px" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/256/Java-icon.png" /><a href="">java</a></td>
   </tr>
-  <!-- <tr> -->
-  <!--   <td><img align="left" alt="coolabhays | Python" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" /><a href="">python</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Selenium" width="38px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" /><a href="">selenium</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Flask" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/flask.svg" /><a href="">flask</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | RESTful" width="38px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" /><a href="">restful</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Javascript" width="38px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" /><a href="">vim</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Php" width="38px" src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/php-icon.png" /><a href="">php</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | HTML" width="38px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" /><a href="">html</a></td> -->
-  <!-- </tr> -->
-  <!-- <tr> -->
-  <!--   <td><img align="left" alt="coolabhays | CSS" width="38px" src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" /><a href="">css</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Bash" width="38px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" /><a href="">bash</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Powershell" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/powershell-2-569189.png" /><a href="">powershell</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Mariadb" width="38px" src="https://cdn.iconscout.com/icon/free/png-64/mariadb-226022.png" /><a href="">mariadb</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | MySQL" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" /><a href="">mysql</a></td> -->
-  <!--   <td><img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /><a href="">git</a></td> -->
-  <!--   <tr><img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" /><a href="">github</a></tr> -->
-  <!-- </tr> -->
+  <tr>
+    <td><img align="left" alt="coolabhays | Python" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/python-icon.png" /><a href="">python</a></td>
+    <td><img align="left" alt="coolabhays | Selenium" width="38px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" /><a href="">selenium</a></td>
+    <td><img align="left" alt="coolabhays | Flask" width="38px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/flask.svg" /><a href="">flask</a></td>
+    <td><img align="left" alt="coolabhays | RESTful" width="38px" src="https://icon-library.com/images/rest-api-icon/rest-api-icon-8.jpg" /><a href="">restful</a></td>
+    <td><img align="left" alt="coolabhays | Javascript" width="38px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" /><a href="">vim</a></td>
+    <td><img align="left" alt="coolabhays | Php" width="38px" src="https://icons.iconarchive.com/icons/graphics-vibe/developer/256/php-icon.png" /><a href="">php</a></td>
+    <td><img align="left" alt="coolabhays | HTML" width="38px" src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png" /><a href="">html</a></td>
+  </tr>
+  <tr>
+    <td><img align="left" alt="coolabhays | CSS" width="38px" src="https://icons.iconarchive.com/icons/martz90/hex/256/css-3-icon.png" /><a href="">css</a></td>
+    <td><img align="left" alt="coolabhays | Bash" width="38px" src="https://icon-library.com/images/bash-icon/bash-icon-24.jpg" /><a href="">bash</a></td>
+    <td><img align="left" alt="coolabhays | Powershell" width="38px" src="https://cdn.iconscout.com/icon/free/png-512/powershell-2-569189.png" /><a href="">powershell</a></td>
+    <td><img align="left" alt="coolabhays | Mariadb" width="38px" src="https://cdn.iconscout.com/icon/free/png-64/mariadb-226022.png" /><a href="">mariadb</a></td>
+    <td><img align="left" alt="coolabhays | MySQL" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/mysql-workbench-icon.png" /><a href="">mysql</a></td>
+    <td><img align="left" alt="coolabhays | Git" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /><a href="">git</a></td>
+    <tr><img align="left" alt="coolabhays | Github" width="38px" src="https://image.flaticon.com/icons/svg/25/25231.svg" /><a href="">github</a></tr>
+  </tr>
 </table>
 
 <!-- [<img align="left" alt="coolabhays | Vim" width="38px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/vim-icon.png" />][vim] -->
